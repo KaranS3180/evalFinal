@@ -48,7 +48,7 @@ s.display_attendence()
 
 s.is_present("rahul")
 
-https://github.com/KaranS3180/evalFinal/edit/main/Untitled-1.py
+
 
 
 
